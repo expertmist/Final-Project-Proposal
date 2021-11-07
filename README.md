@@ -1,4 +1,4 @@
 # Final-Project-Proposal
 
-#Ryan O'Connor
-#ryancoconnor@lewisu.edu
+Ryan O'Connor
+ryancoconnor@lewisu.edu
